@@ -1,0 +1,7 @@
+Task0.py  -  O(1)        -  Constant time complexity as running does not depend on input size
+Task1.py  -  O(n)        -  Linear time complexity as it uses for loops whose running depends on input size with worst case time complexity as n
+Task2.py  -  O(n)        -  Linear time complexity as it uses for loops whose running depends on input size with worst case time complexity as n 
+Task3.py  -  O(n log n)  -  Linearithmic time complexity as it uses sort function whose worst case time complexity is nlogn and for loops with n 
+			    as worst case complexity, so together nlogn will be the time complexity of the program
+Task4.py  -  O(n log n)  -  Linearithmic time complexity as it uses sort function whose worst case time complexity is nlogn and for loops with n 
+			    as worst case complexity, so together nlogn will be the time complexity of the program
